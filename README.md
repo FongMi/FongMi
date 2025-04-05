@@ -2,6 +2,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fongmi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FongMi/TV&type=Date)](https://www.star-history.com/#FongMi/TV&Date)
 <!--
 **FongMi/FongMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
